@@ -15,3 +15,4 @@
 <body>
     <div class="container">
         <h1 class="text-center">Hello, world!</h1>
+        <a href="index.php" class="btn btn-primary">Home</a>
